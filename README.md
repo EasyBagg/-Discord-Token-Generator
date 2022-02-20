@@ -23,7 +23,7 @@ Where can i found my generated accounts?
 It is located in the output folder. Open up login.txt to see the accounts that has been generated.
 
 # Why Release this?
-The reason i released this is because literally everyone is now skidding and opening their token shop i want discord to patch this and make security changes as that will make those skids go away as they can't really code lmfao
+The reason I released this is because literally everyone is now skidding and opening their token shop I want discord to patch this and make security changes as that will make those skids go away as they can't really code lmfao
 
 # FAQ
 
